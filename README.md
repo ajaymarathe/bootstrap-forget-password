@@ -1,6 +1,8 @@
 # bootstrap-forget-password
 Bootstrap Forget password template is a fully responsive template for Bootstrap lover's,  which include simple form and buttons - Created by Bootcatch team.
 
+[![forget password](http://preview.bootcatch.com/bootstrap-forget-password/img/forget-password.png)](http://preview.bootcatch.com/bootstrap-forget-password/)
+
 ## About
 
 Bootcatch is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Bootcatch are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
